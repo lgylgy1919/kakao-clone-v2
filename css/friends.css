@@ -23,6 +23,7 @@
 }
 .friends__content .friends__name {
   display: block;
+  font-weight: 600;
   margin-bottom: 5px;
 }
 .friends__content .friends__status,
